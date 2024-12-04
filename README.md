@@ -27,6 +27,4 @@
 [![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail)](mailto:Kenilpatidar19@gmail.com)  
 
 ---
-
-![Kaushal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KaushalPatidar&show_icons=true&theme=radical)  
 ![Kaushal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KaushalPatidar&show_icons=true&theme=tokyonight)
