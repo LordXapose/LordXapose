@@ -13,10 +13,12 @@ I’m **Kaushal Patidar**, a passionate **Cyber Security Engineer** and final-ye
 ---
 
 #### 🧑‍💼 Professional Experience  
-- **Cyber Security Intern** @ Mamo Technolabs *(Dec 2024 – Present)*  
-  Safeguarding digital assets by conducting penetration tests and implementing security measures.  
-- **Cyber Security Intern** @ Prodigy Infotech *(Jun 2024 – Jul 2024)*  
-  Conducted security audits, developed policies, and enhanced cybersecurity operations.  
+- **Cyber Security Intern** @ Mamo Technolabs *(Dec 2024 – Present)*
+• Developed tools for automated vulnerability assessment and threat detection.
+•Designed secure system architectures to mitigate cyber risks.
+•Built scripts for intrusion detection and log analysis.
+•Implemented security protocols for web applications and networks.
+•Created AI-driven solutions for malware designs 
 - **Admissions Assistant Intern** @ Parul University *(May 2023 – Sep 2023)*  
   Streamlined admissions processes and promoted the institution at recruitment events.  
 
