@@ -31,4 +31,3 @@
 ![Kaushal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KaushalPatidar&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KaushalPatidar&layout=compact&theme=radical)
 
-![Cybersecurity](https://media.giphy.com/media/l3vR1c4v3NG2w/giphy.gif)
