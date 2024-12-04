@@ -4,7 +4,7 @@ I’m **Kaushal Patidar**, a passionate **Cyber Security Engineer** and final-ye
 ---
 
 #### 🚀 About Me  
-- 🌐 Top **8% globally** on [TryHackMe](https://tryhackme.com).  
+- 🌐 Top **7% globally** on [TryHackMe](https://tryhackme.com/r/p/XAPOSE).  
 - 🛡️ Currently a **Cyber Security Intern** @ **Mamo Technolabs**.  
 - 🎯 Skilled in **Threat Detection**, **Incident Response**, and **Risk Management**.  
 - ⚙️ Proficient in tools like **Splunk**, **Nessus**, **Burp Suite**, and frameworks such as **NIST CSF** & **MITRE ATT&CK**.  
@@ -23,8 +23,8 @@ I’m **Kaushal Patidar**, a passionate **Cyber Security Engineer** and final-ye
 ---
 
 #### 🏆 Achievements  
-🏅 Top 8% ranking globally on [TryHackMe](https://tryhackme.com).  
-🏅 **Best Teacher Award** on Teacher's Day at Faculty of IT.  
+🏅 Top 7% ranking globally on [TryHackMe](https://tryhackme.com/r/p/XAPOSE)).  
+🏅 August Code hackathon winner 2024  
 🏅 National-level **Debate Champion** (2022, 2023).  
 🏅 Best Anchor at NCC Leadership Academy.  
 
@@ -51,7 +51,7 @@ I’m **Kaushal Patidar**, a passionate **Cyber Security Engineer** and final-ye
 #### 📌 Connect with Me  
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KaushalPatidar)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaushal-patidar-7ab95b235/)  
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-000?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com)  
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-000?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/r/p/XAPOSE.com)  
 
 ---
 
