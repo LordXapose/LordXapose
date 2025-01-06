@@ -1,5 +1,5 @@
 ### Hi there! 👋  
-I’m **Kaushal Patidar**,
+I’m **Lord Xapose**,
 ---
 
 #### 📌 Connect with Me  
