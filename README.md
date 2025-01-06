@@ -1,5 +1,5 @@
 ### Hi there! 👋  
-I’m **Kaushal Patidar**, a passionate **Cyber Security Engineer**
+I’m **Kaushal Patidar**,
 ---
 
 #### 📌 Connect with Me  
