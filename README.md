@@ -9,4 +9,4 @@ I’m **Lord Xapose**,
 
 ---
 
-✨ Always exploring the intersection of **cybersecurity** and **machine learning** to combat emerging threats!  
+✨ Always exploring the intersection of **cybersecurity**,**Blockchain Security ** and **machine learning** to combat emerging threats!  
