@@ -147,10 +147,6 @@ Safely detonate and analyze malware samples.
 
 <div align="center">
 
-`🔴 Certified Red Team CredOps Infiltrator` · `🐧 Linux 100 Fundamentals`
-
-`🏆 NIC Debate Champion 2023` · `🏆 PICA Debate Champion 2023` · `🏅 Best Teacher Award`
-
 ---
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-141D2B?style=for-the-badge&logo=linkedin&logoColor=9FEF00)](https://www.linkedin.com/in/kaushalpatidar-kenil4sec)
