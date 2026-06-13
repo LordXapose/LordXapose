@@ -122,21 +122,6 @@ Safely detonate and analyze malware samples.
 
 </div>
 
----
-
-### `> cat contributions.snake`
-
-<!-- SNAKE — auto-generated daily via GitHub Action -->
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LordXapose/LordXapose/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LordXapose/LordXapose/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/LordXapose/LordXapose/output/github-snake.svg" />
-</picture>
-</div>
-
----
-
 ### `> cat research.bib`
 
 📄 **Securing DeFi** — Identifying and mitigating vulnerabilities across decentralized finance protocols.
