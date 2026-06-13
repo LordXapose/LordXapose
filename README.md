@@ -1,14 +1,4 @@
-<div align="center">
 
-<!-- HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:141D2B,100:9FEF00&height=200&section=header&text=KAUSHAL%20PATIDAR&fontSize=42&fontColor=9FEF00&fontAlignY=35&desc=Cybersecurity%20%C3%97%20Finance%20%C2%B7%20Leipzig%2C%20DE&descAlignY=55&descSize=16&descColor=A4B1CD&animation=fadeIn" />
-
-<!-- TYPING SVG -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=9FEF00&center=true&vCenter=true&width=600&lines=%24+whoami;Cybersecurity+Associate+%7C+MBB+Track;Red+Teamer+%E2%86%92+Strategy+Consultant;I+break+systems+to+understand+them;Then+I+build+what+keeps+them+safe)](https://git.io/typing-svg)
-
-</div>
-
----
 
 <table>
 <tr>
