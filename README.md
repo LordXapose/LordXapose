@@ -124,9 +124,9 @@ Safely detonate and analyze malware samples.
 
 ### `> cat research.bib`
 
-📄 **Securing DeFi** — Identifying and mitigating vulnerabilities across decentralized finance protocols.
+📄 **Securing DeFi** Identifying and mitigating vulnerabilities across decentralized finance protocols.
 
-📄 **Reentrancy Attacks in Smart Contracts** — How a class of smart-contract flaws creates financial risk in on-chain systems.
+📄 **Reentrancy Attacks in Smart Contracts** How a class of smart-contract flaws creates financial risk in on-chain systems.
 
 ---
 
