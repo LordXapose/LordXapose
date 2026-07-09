@@ -16,10 +16,6 @@ focus:
   - Offensive & Defensive Security
   - Strategy Consulting & Investment Banking
   - DeFi / FinTech Research
-certifications:
-  - Certified Red Team CredOps Infiltrator
-  - Linux 100 Fundamentals
-languages: [English, Hindi, Gujarati, German]
 ```
 
 </td>
