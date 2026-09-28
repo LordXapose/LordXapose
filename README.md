@@ -1,12 +1,12 @@
 <!-- ===================== HERO ===================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:111827,100:020617&height=220&section=header&text=KAUSHAL%20PATIDAR&fontSize=48&fontColor=58A6FF&fontAlignY=35&desc=CYBERSECURITY%20ENGINEER%20%7C%20SECURITY%20RESEARCHER&descAlignY=58&descSize=18&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:111827,100:0f172a&height=220&section=header&text=KAUSHAL%20PATIDAR&fontSize=48&fontColor=58A6FF&fontAlignY=35&desc=CYBERSECURITY%20%7C%20FINANCIAL%20ENGINEERING%20%7C%20SOFTWARE&descAlignY=58&descSize=18&animation=fadeIn" />
 </p>
 
 <p align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=500\&size=20\&pause=1300\&color=58A6FF\&center=true\&vCenter=true\&width=750\&lines=Building+security+tools+that+solve+real+problems;Offensive+Security+%7C+Security+Engineering+%7C+Python;Breaking+systems+to+understand+how+to+secure+them)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=500\&size=20\&pause=1300\&color=58A6FF\&center=true\&vCenter=true\&width=800\&lines=Cybersecurity+Engineer+%7C+Financial+Engineering+Student;Building+Security+%26+Financial+Technology;Software+%C3%97+Security+%C3%97+Finance;Breaking+systems+to+understand+them+%7C+Building+systems+to+improve+them)](https://git.io/typing-svg)
 
 </p>
 
@@ -22,63 +22,65 @@
 
 <img align="right" width="330" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" />
 
-I'm a **Cybersecurity Engineer and Security Researcher** focused on building practical security tooling.
+I'm a **Cybersecurity Engineer and Financial Engineering student** based in Germany.
 
-Currently pursuing an **M.Sc. in Cyber Security in Germany**, while developing security products and working on offensive-security research.
+My work sits at the intersection of:
 
-My main interests sit at the intersection of:
-
-```text
-        SOFTWARE
-           │
-           ▼
-      ┌───────────┐
-      │ SECURITY  │
-      └───────────┘
-        ▲       ▲
-        │       │
- INFRASTRUCTURE  RESEARCH
+```text id="intersection"
+             SOFTWARE
+              /    \
+             /      \
+            ▼        ▼
+     CYBERSECURITY  FINANCE
+            \        /
+             \      /
+              ▼    ▼
+          TECHNOLOGY
 ```
+
+I enjoy building systems, breaking them, analyzing data, and understanding how technology can be applied to security and financial markets.
 
 ### 🔥 Current Focus
 
-* 🔎 External Attack Surface Management
-* 🌐 Network Enumeration
-* 🏴‍☠️ Web Application Security
-* 🏢 Active Directory / Internal Security
-* 🐍 Python Security Engineering
-* ⚙️ Security Automation
-* ☁️ Infrastructure & Cloud Security
-* 🧪 CTFs & Vulnerability Research
+* 🔐 Cybersecurity & Security Engineering
+* 🏴‍☠️ Offensive Security & Vulnerability Research
+* 🌐 Network / Infrastructure Security
+* 🐍 Python & Security Automation
+* 📊 Financial Data & Quantitative Analysis
+* 💹 Financial Engineering
+* 🏦 Asset Management & FinTech
+* ⛓️ Blockchain / Tokenization
+* 🤖 AI-powered Security & Financial Applications
 
 ---
 
-## 🛰️ What I'm Building
+# 🛡️ Cybersecurity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="700">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Attack+Surface+Management;Penetration+Testing;Network+Security;Active+Directory;Web+Security;Security+Automation" />
 </p>
 
-### `SCOPEX`
+### 🛰️ SCOPEX
 
-> **External Attack Surface Intelligence Platform**
+**External Attack Surface Intelligence Platform**
 
-A security platform designed to discover, enumerate and monitor an organization's external attack surface.
+A security platform for discovering, enumerating and monitoring an organization's external attack surface.
 
-```text
+```text id="scopex"
              INTERNET
                  │
-       ┌─────────▼─────────┐
-       │       SCOPEX      │
-       └─────────┬─────────┘
+                 ▼
+          ┌─────────────┐
+          │   SCOPEX    │
+          └──────┬──────┘
                  │
        ┌─────────┼─────────┐
        ▼         ▼         ▼
-   Domains     Hosts    Services
+    Domains     Hosts    Services
        │         │         │
        └─────────┼─────────┘
                  ▼
-          Security Evidence
+         Security Evidence
                  │
                  ▼
           Attack Surface
@@ -90,40 +92,145 @@ A security platform designed to discover, enumerate and monitor an organization'
 
 ---
 
-## 🛡️ Security Projects
+### 🏢 IRIS
 
-| Project              | Focus                       | Technologies           |
-| -------------------- | --------------------------- | ---------------------- |
-| 🛰️ **SCOPEX**       | Attack Surface Intelligence | Python · Nmap · SQLite |
-| 🏢 **IRIS**          | Internal / AD Security      | Python · Windows · AD  |
-| 📡 **s0nar**         | Reconnaissance              | Python · OSINT         |
-| 🧪 **Security Labs** | Web & Network Security      | Burp · Nmap · ffuf     |
-| ⚔️ **CTF Projects**  | Offensive Security          | Linux · Web · AD       |
+**Internal Attack Surface Management**
+
+Security tooling for authorized assessment of internal networks, Windows environments and Active Directory infrastructure.
+
+**Focus**
+
+`Internal Security` · `Active Directory` · `Network Enumeration` · `Windows`
 
 ---
 
-## 🧰 Tech Arsenal
+### 📡 s0nar
 
-### Languages
+Security reconnaissance and enumeration tooling focused on automating security assessment workflows.
+
+**Focus**
+
+`Python` · `Recon` · `OSINT` · `Automation`
+
+---
+
+# 💹 Financial Engineering & FinTech
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Financial%20Engineering-0A0A0A?style=for-the-badge&logo=python&logoColor=58A6FF"/>
+<img src="https://img.shields.io/badge/Quantitative%20Finance-0A0A0A?style=for-the-badge&logo=chartdotjs&logoColor=58A6FF"/>
+<img src="https://img.shields.io/badge/FinTech-0A0A0A?style=for-the-badge&logo=bitcoin&logoColor=58A6FF"/>
+<img src="https://img.shields.io/badge/Financial%20Data-0A0A0A?style=for-the-badge&logo=databricks&logoColor=58A6FF"/>
+
+</p>
+
+### 📈 FinancialAI
+
+A personal financial technology platform combining:
+
+```text id="financialai"
+             MARKET DATA
+                  │
+       ┌──────────▼──────────┐
+       │    FINANCIAL AI     │
+       └──────────┬──────────┘
+                  │
+        ┌─────────┼─────────┐
+        ▼         ▼         ▼
+     Stocks     ETFs      Crypto
+        │         │         │
+        └─────────┼─────────┘
+                  ▼
+          Analytics Engine
+                  │
+        ┌─────────┼─────────┐
+        ▼         ▼         ▼
+       RSI      Signals     Risk
+        │         │         │
+        └─────────┼─────────┘
+                  ▼
+            AI Analysis
+```
+
+**Technologies**
+
+`Python` · `SQL` · `APIs` · `Data Pipelines` · `AI/LLMs` · `Financial Analytics`
+
+---
+
+## 🏦 Financial Markets
+
+I'm particularly interested in the intersection of technology and financial markets:
+
+* 📊 ETFs & Index Tracking
+* 💼 Asset Management
+* 📈 Quantitative Finance
+* 🧮 Risk Analytics
+* 💰 Portfolio Analytics
+* 🏦 WealthTech
+* 🤖 AI in Finance
+* ⛓️ Tokenization & Digital Assets
+* 💵 Stablecoins
+* 🔗 Blockchain Infrastructure
+* ⚡ DeFi & Automated Market Makers
+
+My interest is less about simply **trading** and more about understanding the technology, mathematics, data and infrastructure behind modern financial systems.
+
+---
+
+# ⛓️ Blockchain & Digital Assets
+
+I've explored blockchain technology through projects and technical research around:
+
+```text
+Blockchain
+    │
+    ├── Smart Contracts
+    ├── Tokenization
+    ├── DeFi
+    ├── AMMs
+    ├── DEX Architecture
+    ├── Stablecoins
+    └── Financial APIs
+```
+
+The area I find particularly interesting is the convergence of:
+
+> **Traditional Finance × Blockchain × Security**
+
+---
+
+# 🧰 Tech Arsenal
+
+### Programming
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,java,js,bash,html,css,sql&perline=8" />
 </p>
 
-### Security & Infrastructure
+### Infrastructure
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=linux,kali,windows,docker,git,github,aws,azure&perline=8" />
 </p>
 
-### Security Tooling
+### Data & Finance
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,r,postgresql&perline=8" />
+</p>
+
+`NumPy` · `Pandas` · `SciPy` · `Matplotlib` · `SQL` · `Financial APIs`
+
+### Security
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white"/>
-<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
-<img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white"/>
+<img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/ffuf-000000?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/SQLMap-CC2927?style=for-the-badge"/>
 
@@ -131,54 +238,60 @@ A security platform designed to discover, enumerate and monitor an organization'
 
 ---
 
-## 🧠 Security Mindset
+# 🧠 How I Think
 
 ```text
-Recon
-  ↓
-Enumeration
-  ↓
-Attack Surface Mapping
-  ↓
-Vulnerability Discovery
-  ↓
-Exploitation
-  ↓
-Privilege Escalation
-  ↓
-Detection
-  ↓
-Hardening
+                 ┌──────────────┐
+                 │   PROBLEM    │
+                 └──────┬───────┘
+                        │
+             ┌──────────▼──────────┐
+             │      RESEARCH       │
+             └──────────┬──────────┘
+                        │
+          ┌─────────────┼─────────────┐
+          ▼             ▼             ▼
+       SECURITY       SOFTWARE      FINANCE
+          │             │             │
+          └─────────────┼─────────────┘
+                        ▼
+                  BUILD / TEST
+                        │
+                        ▼
+                   ANALYZE DATA
+                        │
+                        ▼
+                    IMPROVE
 ```
 
-I don't want to simply know **which tool to run**.
-
-I want to understand **why the vulnerability exists, how the system can be exploited, how it can be detected, and how it can be fixed.**
+I enjoy problems where **software engineering, security, data and financial systems overlap**.
 
 ---
 
-## 🏆 Highlights
+# 🏆 Highlights
 
 <p align="center">
 
 <img src="https://img.shields.io/badge/🥇%20Hackathon-Winner-FFD700?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/🏅%20Hackathons-Top%20Ranked-58A6FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🏅%20Competitive%20Hackathons-Top%20Ranked-58A6FF?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/🏴‍☠️%20CTF-Offensive%20Security-111827?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/🐍%20Python-Security%20Engineering-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/🐍%20Python-Security%20%26%20Finance-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
 </p>
 
 * 🥇 Hackathon winner
-* 🏅 Top-ranked finishes in competitive hackathons
+* 🏅 Top-ranked competitive hackathon finishes
 * 🏴‍☠️ Active CTF / offensive-security practice
-* 🐍 Previous Python development experience
+* 🐍 Python development experience
 * 🔬 Building cybersecurity products
-* 🎓 M.Sc. Cyber Security in Germany
+* 📊 Building financial technology projects
+* 🎓 M.Sc. Cyber Security
+* 📈 M.Sc. Financial Engineering
 * 💻 30+ technical projects and experiments
 
 ---
 
-## 📊 GitHub Activity
+# 📊 GitHub Activity
 
 <p align="center">
 
@@ -196,36 +309,39 @@ I want to understand **why the vulnerability exists, how the system can be explo
 
 ---
 
-## 🧪 Currently Learning
+# 🎯 Career Interests
+
+I'm interested in engineering-heavy roles across the intersection of:
+
+```text
+              TECHNOLOGY
+              /        \
+             /          \
+            ▼            ▼
+     CYBERSECURITY     FINANCE
+            \            /
+             \          /
+              ▼        ▼
+             FINTECH
+```
+
+Particularly:
+
+**Security Engineering · SRE · Cybersecurity · FinTech · Financial Technology · Financial Data · Asset Management Technology · Cloud Security · Security Research**
+
+---
+
+# 📚 Currently Learning
 
 <p align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=900&color=58A6FF&center=true&vCenter=true&width=650&lines=Advanced+Penetration+Testing;Active+Directory+Security;Internal+Network+Enumeration;Cloud+Security;Security+Engineering;OSCP+%7C+CPTS+%7C+OSEP" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=900&color=58A6FF&center=true&vCenter=true&width=750&lines=Advanced+Penetration+Testing;Active+Directory+Security;Internal+Network+Enumeration;Cloud+Security;Security+Engineering;Quantitative+Finance;Financial+Data+Engineering;Blockchain+%26+Tokenization" />
 
 </p>
 
 ---
 
-## 🎯 Career Direction
-
-I'm interested in engineering-heavy security roles involving:
-
-```text
-Security Engineering
-        │
-        ├── Offensive Security
-        ├── Infrastructure Security
-        ├── Cloud Security
-        ├── SRE / Reliability
-        ├── Security Research
-        └── Security Automation
-```
-
-I enjoy problems where **software engineering + infrastructure + security** overlap.
-
----
-
-## 📫 Connect With Me
+# 📫 Connect
 
 <p align="center">
 
@@ -243,7 +359,7 @@ I enjoy problems where **software engineering + infrastructure + security** over
 
 <p align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1500&color=8B949E&center=true&vCenter=true&width=650&lines=Build+it.;Break+it.;Understand+it.;Secure+it." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1500&color=8B949E&center=true&vCenter=true&width=650&lines=Build+it.;Break+it.;Analyze+it.;Secure+it.;Scale+it." />
 
 </p>
 
