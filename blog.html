@@ -1,0 +1,84 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#f0eee7" />
+    <title>Writing | Kaushal Patidar</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=Space+Grotesk:wght@400;500;600;700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="style.css" />
+    <link rel="alternate" type="application/rss+xml" title="Kaushal Patidar — Writing" href="feed.xml" />
+    <script src="blog.js" defer></script>
+  </head>
+  <body>
+    <a class="skip-link" href="#main">Skip to content</a>
+    <div class="reading-progress" aria-hidden="true"><span id="reading-progress"></span></div>
+    <header class="site-header">
+      <a class="wordmark" href="index.html#top" aria-label="Kaushal Patidar, home">
+        <span class="wordmark-mark">KP</span>
+        <span>KAUSHAL PATIDAR</span>
+      </a>
+      <nav class="main-nav" aria-label="Main navigation">
+        <a href="index.html#projects">Work</a>
+        <a href="index.html#about">Profile</a>
+        <a href="index.html#blog">Writing</a>
+      </nav>
+      <div class="header-actions">
+        <button class="header-button" type="button" id="command-open" aria-haspopup="dialog">⌘K</button>
+        <button class="header-button" type="button" id="theme-toggle" aria-pressed="false">Theme</button>
+        <a class="header-link" href="mailto:kenilpatidar19@gmail.com">Contact <span aria-hidden="true">↗</span></a>
+      </div>
+    </header>
+    <div class="utility-panel section-wrap" aria-label="Display options">
+      <button type="button" id="font-size-toggle">Text size: standard</button>
+      <button type="button" id="motion-toggle" aria-pressed="false">Reduce motion</button>
+      <button type="button" id="shortcuts-open">Shortcuts ?</button>
+      <label class="palette-control">Accent
+        <select id="accent-select" aria-label="Choose accent color">
+          <option value="blue">Cobalt</option><option value="green">Forest</option><option value="violet">Violet</option>
+        </select>
+      </label>
+      <span class="local-time">Leipzig <time id="leipzig-clock"></time></span>
+    </div>
+    <main id="main" class="section-wrap blog-article">
+      <a class="blog-back" href="index.html#blog">← BACK TO WRITING</a>
+      <header class="blog-article-header">
+        <time class="blog-article-meta" id="blog-date"></time>
+        <h1 class="blog-article-title" id="blog-title">Loading article…</h1>
+        <p class="blog-article-summary" id="blog-summary"></p>
+        <p class="blog-reading-time" id="blog-reading-time"></p>
+        <div class="blog-tags" id="blog-article-tags"></div>
+      </header>
+      <p class="blog-status" id="blog-loading">Loading article…</p>
+      <p class="blog-status" id="blog-article-status" hidden></p>
+      <nav class="blog-toc" id="blog-toc" aria-label="Article contents" hidden></nav>
+      <div class="article-actions">
+        <button type="button" id="article-bookmark">Save article</button>
+        <button type="button" id="article-copy-link">Copy article link</button>
+        <button type="button" id="article-share">Share article</button>
+        <label>Reading size <input id="article-font-size" type="range" min="14" max="22" value="15" /></label>
+      </div>
+      <article class="blog-content" id="blog-content"></article>
+      <section class="article-feedback" aria-label="Article feedback">
+        <p>Was this useful? <button type="button" data-reaction="helpful">Yes</button> <button type="button" data-reaction="not-helpful">Not yet</button></p>
+        <p class="form-privacy">Feedback is saved only in this browser.</p>
+      </section>
+      <section class="related-posts" id="related-posts" hidden><h2>Related writing</h2><div id="related-post-list"></div></section>
+    </main>
+    <footer class="site-footer section-wrap">
+      <a class="wordmark" href="index.html#top"><span class="wordmark-mark">KP</span><span>KAUSHAL PATIDAR</span></a>
+      <p>Cyber Security M.Sc. Candidate</p>
+      <a href="index.html#blog" class="back-top">BACK TO WRITING ↑</a>
+    </footer>
+    <button class="back-to-top" id="back-to-top" type="button" aria-label="Back to top">↑</button>
+    <p id="site-toast" class="site-toast" role="status" aria-live="polite"></p>
+    <dialog id="command-dialog" aria-labelledby="command-title"><form method="dialog" class="dialog-close"><button aria-label="Close command palette">×</button></form><h2 id="command-title">Jump to</h2><label>Search pages and posts <input id="command-search" type="search" autocomplete="off" /></label><div id="command-results" role="listbox"></div></dialog>
+    <dialog id="shortcuts-dialog" aria-labelledby="shortcuts-title"><form method="dialog" class="dialog-close"><button aria-label="Close shortcuts">×</button></form><h2 id="shortcuts-title">Keyboard shortcuts</h2><p><kbd>Ctrl</kbd>/<kbd>⌘</kbd> + <kbd>K</kbd> opens search. <kbd>Esc</kbd> closes dialogs. <kbd>?</kbd> opens this guide.</p></dialog>
+    <script src="interactive.js" defer></script>
+  </body>
+</html>
